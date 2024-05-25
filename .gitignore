@@ -1,1 +1,27 @@
-.venv
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+.venv/
+
+# IDE (e.g., VSCode, PyCharm)
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Output of Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables file
+.env
